@@ -2,7 +2,7 @@ var myQuestions = [
   {
     question: "1. You have been asked to busy 30 pieces of hand sanitizers. A \
     box of 10 pieces each is sold for \\({SAR}~{270}\\). Buying it per \
-    piece wiil cost you \\({SAR}~{29.10}\\). How much savings woudl you \
+    piece wiil cost you \\({SAR}~{29.10}\\). How much savings would you \
     get for choosing the better option?",
     answers: {
       a: '\\({SAR}~{72.57}\\)<br>',
